@@ -22,5 +22,5 @@ var rate =prompt ('how many star rating would you give this content, 1-5?');
 
 
 for(var i=0;i<rate;i++)
-{ document.write('<img src="https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5d35eacaf1176b0008974b54%2F0x0.jpg%3FcropX1%3D790%26cropX2%3D5350%26cropY1%3D784%26cropY2%3D3349"> ', i)
+{ document.write('<img src="https://media.gettyimages.com/photos/lionel-messi-of-barcelona-gestures-during-the-uefa-champions-league-picture-id1143242800?k=6&m=1143242800&s=612x612&w=0&h=Pc1h5X5H4Fft3sFUSa5Mv7-iETFSp1kr2OfAaiA8yH8="> ', i)
 }
